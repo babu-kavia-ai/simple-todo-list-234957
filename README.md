@@ -1,1 +1,3 @@
-# simple-todo-list-234957
+# Project Repository
+
+This is the initial README file for the project.
